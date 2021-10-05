@@ -185,3 +185,6 @@ pip-selfcheck.json
 
 # 중요 정보 보안
 setting/config.py
+
+# Jetstream pycharm configs
+.idea/
